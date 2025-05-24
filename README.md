@@ -19,8 +19,8 @@ Our projects are:
     * Visit the project's repository `README.md` for specific setup instructions, contribution guidelines, and current needs.
     * Join the project's discussion on its GitHub Issues or a dedicated WhatsApp thread (if created).
 3.  **Propose a New Project Idea:**
-    * Have a brilliant idea for a new full-stack application we should build? Open a [new issue](https://github.com/HiredX-Fullstack-Club/projects/issues/new?template=project-idea.yml) in this repository with the "Project Idea" template.
-    * Clearly describe the project's goal, potential technologies, and what skills it would help members develop.
+    * Have a brilliant idea for a new full-stack application we should build? Propose a [new idea](https://github.com/HiredX-Fullstack-Club/projects/issues/new?template=project-idea.yml) in this repository.
+    * Describe in detail the project's goal, potential technologies, and what skills it would help members develop.
  
 ## Active Projects
  
