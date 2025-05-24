@@ -1,0 +1,90 @@
+name: 🚀 New Project Idea
+description: Propose a new full-stack project for the club to consider and collaborate on.
+title: "[Project Idea] Your Project Title Here"
+labels: ["project idea", "discussion needed"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for contributing an idea to the HiredX Full-stack Club! 🎉  
+        Please fill out the fields below to help others understand, collaborate, and bring your idea to life.
+
+  - type: input
+    id: summary
+    attributes:
+      label: ✨ Project Summary
+      description: Give a short, one-paragraph summary of your idea.
+      placeholder: Enter your project summary here.
+    validations:
+      required: true
+
+  - type: textarea
+    id: goals
+    attributes:
+      label: 🎯 What problem does this solve or what value does it provide?
+      description: |
+        - Helps members build CRUD apps with filters and search
+        - Encourages UX and database design practice
+        - Makes a fun and practical tool others may want to use
+      placeholder: Describe the purpose of the project and how it can benefit users or club members.
+    validations:
+      required: true
+
+  - type: textarea
+    id: features
+    attributes:
+      label: 🛠️ Core Features (MVP)
+      description: |
+        - User login/signup
+        - Add/edit/delete entries
+        - Live search and filters
+        - Responsive frontend (mobile + desktop)
+      placeholder: What are the key features this project should launch with?
+    validations:
+      required: true
+
+  - type: textarea
+    id: tech-stack
+    attributes:
+      label: 🧰 Suggested Tech Stack
+      description: |
+        - Backend: Go or Node.js
+        - Frontend: Next.js or Angular
+        - Database: PostgreSQL
+        - Auth: GitHub/Google/Microsoft OAuth
+      placeholder: What languages, frameworks, or tools do you imagine using? (Leave blank if unsure!)
+    validations:
+      required: false
+
+  - type: textarea
+    id: learning
+    attributes:
+      label: 📚 What can members learn by building this?
+      description: |
+        - Working with OAuth and user auth flows
+        - Setting up REST APIs and using WebSockets
+        - Frontend state management
+        - Collaborating with GitHub Issues and Pull Requests
+      placeholder: Mention technical, soft, or teamwork skills this project helps develop.
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: involvement
+    attributes:
+      label: 🤝 How do you want to contribute?
+      description: Choose one or more ways you'd like to help out with this project.
+      options:
+        - label: I want to help lead the project
+        - label: I want to help build it (frontend/backend/etc.)
+        - label: I can help with documentation or testing
+        - label: I just want to suggest the idea
+
+  - type: textarea
+    id: extra
+    attributes:
+      label: 💬 Anything else you'd like to add?
+      description: Share any mockups, diagrams, references, or links that could help others understand your idea.
+      placeholder: Optional sketches, similar open-source projects, or user stories.
+    validations:
+      required: false
