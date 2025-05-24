@@ -26,18 +26,7 @@ Our projects are:
  
 Here's a list of full-stack projects currently under development by the HiredX Full-stack Club. Click on a project to learn more and how to contribute!
  
-* ### [HiredX Dev Blog](https://github.com/HiredX-Fullstack-Club/hiredx-dev-blog)
-    * **Description:** A full-stack blogging platform for members to write about their learning journeys, tutorials, and insights.
-    * **Technologies:** React, Node.js (Express), MongoDB.
-    * **Status:** Initial setup, planning UI/UX, API design.
-    * **Looking For:** Frontend developers, Backend developers, UI/UX designers, Content writers.
- 
-* ### [Job Board Scraper](https://github.com/HiredX-Fullstack-Club/job-board-scraper)
-    * **Description:** A utility to scrape job postings from various online platforms and aggregate them into a single, searchable interface.
-    * **Technologies:** Python (Scrapy/BeautifulSoup), Flask, PostgreSQL, React/Vue.
-    * **Status:** Researching scraping libraries, initial backend API.
-    * **Looking For:** Python developers, Database experts, Frontend developers.
- 
+
 ## Project Ideas
  
 Don't see a project that sparks your interest, or have a brilliant concept you want to lead? These are potential ideas we could build!
