@@ -1,12 +1,12 @@
-# HiredX Full-stack Club Projects 💡
+# HiredX Community Projects 💡
  
-Welcome to the HiredX Full-stack Club Projects hub! This is where we bring our learning to life by collaborating on real-world applications and open-source initiatives. Our projects are designed to solidify your full-stack skills, provide practical experience, and build a portfolio of impactful work.
+Welcome to the HiredX Community Projects hub! This is where we bring our learning to life by collaborating on real-world applications and open-source initiatives. Our projects are designed to solidify your full-stack skills, provide practical experience, and build a portfolio of impactful work.
  
 ## About Our Projects
  
 Our projects are:
 * **Collaborative:** Built by club members, leveraging diverse skill sets.
-* **Full-stack Focused:** Covering both frontend and backend technologies.
+* **Enterprised Focused:** Covering technologies and discplines used by businesses.
 * **Learning Opportunities:** Designed to introduce new concepts, tools, and teamwork dynamics.
 * **Open for Contribution:** We welcome everyone, regardless of experience level, to join and contribute.
  
